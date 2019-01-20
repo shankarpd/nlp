@@ -30,3 +30,4 @@ Your terminal should already be open. Type command-t to open a new tab. Type `co
 
 If you have any issues, please email me at adashofdata@gmail.com or come talk to me before the start of the tutorial on Saturday.
 # nlp
+# nlp
