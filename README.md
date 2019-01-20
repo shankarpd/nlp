@@ -8,7 +8,7 @@ Here are the steps you’ll need to take before the start of the tutorial:
 I highly recommend that you download [the Python 3.6 version](https://www.anaconda.com/download/).
 
 ### 2. Download the Jupyter Notebooks
-Clone or download this [Github repository](https://github.com/adashofdata/nlp-in-python-tutorial), so you have access to all the Jupyter Notebooks (.ipynb extension) in the tutorial. **Note the green button on the right side of the screen that says `Clone or download`.** If you know how to use Github, go ahead and clone the repo. If you don't know how to use Github, you can also just download the zip file and unzip it on your laptop.
+Download notebook.
 
 ### 3. Launch Anaconda and Open a Jupyter Notebook
 
@@ -28,6 +28,6 @@ Open the Anaconda Prompt program. You should see a black window pop up. Type `co
 *Mac/Linux:*
 Your terminal should already be open. Type command-t to open a new tab. Type `conda install -c conda-forge wordcloud` to download wordcloud. You will be asked whether you want to proceed or not. Type `y` for yes. Once that is done, type `conda install -c conda-forge textblob` to download textblob and `y` to proceed, and type `conda install -c conda-forge gensim` to download gensim and `y` to proceed.
 
-If you have any issues, please email me at adashofdata@gmail.com or come talk to me before the start of the tutorial on Saturday.
+
 # nlp
 # nlp
